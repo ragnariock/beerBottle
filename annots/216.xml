@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>216.jpg</filename>
+	<path>/home/ostap/Documents/project/ImageWork/Beta1/beerBottle/battle/countinue/image/216.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1365</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>beerBottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>430</xmin>
+			<ymin>1211</ymin>
+			<xmax>583</xmax>
+			<ymax>1626</ymax>
+		</bndbox>
+	</object>
+</annotation>
